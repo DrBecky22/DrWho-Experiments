@@ -1,0 +1,171 @@
+/**********Tag Selectors**********/
+body {
+    margin: 0;
+    background-color: wheat;
+    position: relative;
+  }
+  h1 {
+    margin-top: 0;
+    
+  }
+  
+  /**********Class Selectors**********/
+  .header {
+    background-color: peru;
+    width: 100%;
+    position: fixed;
+    top: 5px;
+    text-align: center;
+    z-index: 100;
+  }
+  
+  .textbox1 {
+    background-color: seashell;
+    width: 90%;
+    border: solid indigo 10px;
+    margin: 10px auto;
+  }
+  
+  .pro {
+    text-decoration: underline;
+  }
+  
+  .p-container-body {
+    background-color: mediumslateblue;
+    width: 80%;
+    position: relative;
+    padding: 25px;
+    margin: 0 auto 0 auto;
+    top: 150px;
+  }
+  
+  .textbox2 {
+    background-color: seashell;
+    position: relative;
+    width: 80%;
+    border: solid indigo 10px;
+    padding: 15px;
+    margin: 0 auto 0 auto;
+    
+  }
+  
+  .c1-container-boxes {
+    background-color: silver;
+    height: 500px;
+    width: 500px;
+    display: block;
+    position: relative;
+    border: solid indigo 10px;
+    margin: 50px auto 50px auto;
+  
+  
+  }
+  
+  .red-box {
+    background-color: indianRed;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+  }
+  
+  .blue-box {
+    background-color: steelblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+  }
+  
+  .olive-box {
+    background-color: olivedrab;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute; 
+  }
+  
+  .teal-box {
+    background-color: teal;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute; 
+    top: 300px;
+    left: 300px;
+  }
+  
+  .green-box {
+    background-color: darkolivegreen;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute; 
+    top: 400px;
+    left: 400px;
+  }
+  
+  .blue-circle {
+    background-color: cadetblue;
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 285px;
+    top: 95px;
+  }
+  
+  .orange-circle {
+    background-color: chocolate;
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 375px;
+  }
+  
+  .teal-circle {
+    background-color: lightseagreen;
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 95px;
+    top: 285px;
+  }
+  
+  .red-circle {
+    background-color: maroon;
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 375px;
+  }
+  
+  .p-container-matt {
+    background-color: darkred;
+    display: block;
+    position: relative;
+    width: 90%;
+    margin: 50px auto;
+  }
+  /**********ID Selectors***********/
+  #purple-h2 {
+    text-align: center;
+  }
+  
+  #DrWho {
+    width: 90%;
+    display: flex;
+    padding: 20px;
+    margin: auto;
+  }
